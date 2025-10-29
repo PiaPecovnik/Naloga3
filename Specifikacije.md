@@ -1,6 +1,6 @@
 # MFP
 
-![LOGO](https://commons.wikimedia.org/wiki/File:BMW.svg)
+![LOGO](https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo_TV_2015.png)
 
 | Ime | Vloga |
 |-|-|
@@ -9,5 +9,5 @@
 | Filip Kamnik | tester |
 
 ```
-<h1>Naslov</h1>
-<p>Besedilo</p>
+<h1>MFP</h1>
+<p>Spletna stran za lastnike in njihove ljubljenčke</p>
