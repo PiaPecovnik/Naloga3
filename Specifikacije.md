@@ -1,6 +1,6 @@
 # MFP
 
-![LOGO](logo.jpg)
+![LOGO](https://commons.wikimedia.org/wiki/File:BMW.svg)
 
 | Ime | Vloga |
 |-|-|
